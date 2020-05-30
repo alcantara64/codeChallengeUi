@@ -1,0 +1,39 @@
+.carCardCointainer{
+    border-radius: 5px;
+    box-shadow: 0 0 5px 5px #E3E3E3;
+    padding: 25px;
+    margin: 10px 15px 10px 15px;
+    width: 50%;
+    margin-left: 24%
+}
+.contentContainer{
+    display: flex;
+}
+.carColor{
+    border-radius: 50px;
+    width: 20px;
+    height: 20px;
+}
+.vl {
+    border-left: 2px solid green;
+    height: 42px;
+    padding-top: 22px;
+    margin-top: 24px;
+  }
+.textContainer{
+    position : relative,
+
+}
+.imageContainer{
+    padding-top: 64px;
+    padding-right: 29px;
+}
+.descriptionCointainer{
+    display:flex
+}
+.descriptionItem{
+    display:flex;
+}
+h6.title{
+    padding: 0px 5px 0px 5px
+}

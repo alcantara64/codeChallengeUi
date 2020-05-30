@@ -1,0 +1,28 @@
+[
+    {
+        "id": 1,
+        "first_name": "emmanuel",
+        "last_name": "agahiu",
+        "car_color": "red",
+        "country": "nigeria",
+        "car_model": "Lincoln",
+        "car_model_year": "1996",
+        "gender": "Male",
+        "email" : "emmanuelagahiu@gmail.com",
+        "job_title": "Developer",
+        "bio": "Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin interdum mauris non ligula pellentesque ultrices."
+    },
+    {
+        "id": 2,
+        "first_name": "joseph",
+        "last_name": "yobo",
+        "car_color": "red",
+        "country": "nigeria",
+        "email" : "emmanuelagahiu@gmail.com",
+        "car_model": "Lincoln",
+        "car_model_year": "1998",
+        "gender": "Male",
+        "job_title": "junior",
+        "bio": "Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin interdum mauris non ligula pellentesque ultrices."
+    }
+]

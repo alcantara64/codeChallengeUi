@@ -1,0 +1,22 @@
+{
+   "fromDate":"1920",
+   "endDate":"2020",
+   "colors":[
+      "red",
+      "blue",
+      "yellow",
+      "green",
+      "orange",
+      "purple"
+   ],
+   "gender":[
+      "male",
+      "female"
+   ],
+   "countries":[
+      "Mexico",
+      "Nigeria",
+      "China",
+      "North Koria"
+   ]
+}
